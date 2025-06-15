@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TechTales-FE
 개발블로그
 =======
@@ -56,4 +55,3 @@ export default tseslint.config({
   },
 })
 ```
->>>>>>> c3a2e56 ([FEAT] 프로젝트 생성)
